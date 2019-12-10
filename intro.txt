@@ -1,0 +1,15 @@
+open empty folder
+
+git init
+
+git remote add origin "link of repository" - make sure it has a README.md file!
+
+git pull origin master
+
+add stuff you want to add to file
+
+git add
+
+git commit -m "message"
+
+git push origin master
